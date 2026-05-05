@@ -3,8 +3,9 @@
  * Driver program for the Student class.
  * Demonstrates object creation, method calls, and validation.
  *
- * Lab Exercise 02 — Option A
  */
+
+// edemars
 public class Main {
     public static void main(String[] args) {
 
