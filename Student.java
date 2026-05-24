@@ -6,7 +6,6 @@ public class Student {
     private double gpa;          
     private int unitsEnrolled;  
 
-     */
     public Student(String name, String studentId, String course,
                    double gpa, int unitsEnrolled) {
 
